@@ -18,7 +18,7 @@ var b = 21;
 a = 2;
 b + a // 23
 
-// What is c equal to?
+
 var c; // undefined
 
 
